@@ -1,0 +1,452 @@
+[
+  {
+    "Product_ID": "PRD-101",
+    "Product_Name": "Royal Kundan Chandbali Earrings",
+    "Product_Category": "Earrings",
+    "Product_Price": 2899,
+    "Product_Cost": 1150,
+    "Brand": "Zariyah Luxe",
+    "Supplier_Name": "Jaipur Gem Crafts"
+  },
+  {
+    "Product_ID": "PRD-102",
+    "Product_Name": "Traditional Meenakari Jhumkas",
+    "Product_Category": "Earrings",
+    "Product_Price": 1799,
+    "Product_Cost": 720,
+    "Brand": "Aura Jewels",
+    "Supplier_Name": "Jaipur Gem Crafts"
+  },
+  {
+    "Product_ID": "PRD-103",
+    "Product_Name": "Polki Floral Stud Earrings",
+    "Product_Category": "Earrings",
+    "Product_Price": 1499,
+    "Product_Cost": 580,
+    "Brand": "Vedic Spark",
+    "Supplier_Name": "Surat Diamond Arts"
+  },
+  {
+    "Product_ID": "PRD-104",
+    "Product_Name": "Antique Temple Drop Earrings",
+    "Product_Category": "Earrings",
+    "Product_Price": 2199,
+    "Product_Cost": 890,
+    "Brand": "Royal Heritage",
+    "Supplier_Name": "Mumbai Goldsmiths Ltd"
+  },
+  {
+    "Product_ID": "PRD-105",
+    "Product_Name": "Rose Gold CZ Hoop Earrings",
+    "Product_Category": "Earrings",
+    "Product_Price": 1299,
+    "Product_Cost": 480,
+    "Brand": "Nirvana Gems",
+    "Supplier_Name": "Surat Diamond Arts"
+  },
+  {
+    "Product_ID": "PRD-106",
+    "Product_Name": "Kashmiri Pearl Tassel Dangles",
+    "Product_Category": "Earrings",
+    "Product_Price": 1999,
+    "Product_Cost": 790,
+    "Brand": "Zariyah Luxe",
+    "Supplier_Name": "Jaipur Gem Crafts"
+  },
+  {
+    "Product_ID": "PRD-107",
+    "Product_Name": "Oxidised Silver Boho Dome Jhumkis",
+    "Product_Category": "Earrings",
+    "Product_Price": 899,
+    "Product_Cost": 320,
+    "Brand": "Tarinika Craft",
+    "Supplier_Name": "Rajkot Jewellery Hub"
+  },
+  {
+    "Product_ID": "PRD-108",
+    "Product_Name": "Bridal Heritage Kundan Choker Set",
+    "Product_Category": "Necklaces",
+    "Product_Price": 7999,
+    "Product_Cost": 3400,
+    "Brand": "Zariyah Luxe",
+    "Supplier_Name": "Jaipur Gem Crafts"
+  },
+  {
+    "Product_ID": "PRD-109",
+    "Product_Name": "Emerald Green Royal Rani Haar",
+    "Product_Category": "Necklaces",
+    "Product_Price": 9499,
+    "Product_Cost": 4100,
+    "Brand": "Royal Heritage",
+    "Supplier_Name": "Jaipur Gem Crafts"
+  },
+  {
+    "Product_ID": "PRD-110",
+    "Product_Name": "Solitaire CZ Tennis Choker",
+    "Product_Category": "Necklaces",
+    "Product_Price": 3499,
+    "Product_Cost": 1400,
+    "Brand": "Nirvana Gems",
+    "Supplier_Name": "Surat Diamond Arts"
+  },
+  {
+    "Product_ID": "PRD-111",
+    "Product_Name": "Temple Coin Lakshmi Long Haar",
+    "Product_Category": "Necklaces",
+    "Product_Price": 5999,
+    "Product_Cost": 2450,
+    "Brand": "Royal Heritage",
+    "Supplier_Name": "Mumbai Goldsmiths Ltd"
+  },
+  {
+    "Product_ID": "PRD-112",
+    "Product_Name": "Layered Fresh Water Pearl Mala",
+    "Product_Category": "Necklaces",
+    "Product_Price": 2799,
+    "Product_Cost": 1100,
+    "Brand": "Aura Jewels",
+    "Supplier_Name": "Hyderabad Pearl House"
+  },
+  {
+    "Product_ID": "PRD-113",
+    "Product_Name": "Gold Plated Hasli Tribal Collar",
+    "Product_Category": "Necklaces",
+    "Product_Price": 1999,
+    "Product_Cost": 780,
+    "Brand": "Tarinika Craft",
+    "Supplier_Name": "Rajkot Jewellery Hub"
+  },
+  {
+    "Product_ID": "PRD-114",
+    "Product_Name": "American Diamond V-Collar Necklace",
+    "Product_Category": "Necklaces",
+    "Product_Price": 4299,
+    "Product_Cost": 1750,
+    "Brand": "Vedic Spark",
+    "Supplier_Name": "Surat Diamond Arts"
+  },
+  {
+    "Product_ID": "PRD-115",
+    "Product_Name": "Solitaire Cushion Cut CZ Ring",
+    "Product_Category": "Rings",
+    "Product_Price": 1599,
+    "Product_Cost": 620,
+    "Brand": "Nirvana Gems",
+    "Supplier_Name": "Surat Diamond Arts"
+  },
+  {
+    "Product_ID": "PRD-116",
+    "Product_Name": "Adjustable Polki Mirror Cocktail Ring",
+    "Product_Category": "Rings",
+    "Product_Price": 1299,
+    "Product_Cost": 480,
+    "Brand": "Aura Jewels",
+    "Supplier_Name": "Jaipur Gem Crafts"
+  },
+  {
+    "Product_ID": "PRD-117",
+    "Product_Name": "Navratna Multi-Gemstone Halo Ring",
+    "Product_Category": "Rings",
+    "Product_Price": 2499,
+    "Product_Cost": 980,
+    "Brand": "Royal Heritage",
+    "Supplier_Name": "Jaipur Gem Crafts"
+  },
+  {
+    "Product_ID": "PRD-118",
+    "Product_Name": "Rose Gold Eternity Band Ring",
+    "Product_Category": "Rings",
+    "Product_Price": 1899,
+    "Product_Cost": 720,
+    "Brand": "Nirvana Gems",
+    "Supplier_Name": "Surat Diamond Arts"
+  },
+  {
+    "Product_ID": "PRD-119",
+    "Product_Name": "Antique Brass Floral Statement Ring",
+    "Product_Category": "Rings",
+    "Product_Price": 999,
+    "Product_Cost": 360,
+    "Brand": "Tarinika Craft",
+    "Supplier_Name": "Rajkot Jewellery Hub"
+  },
+  {
+    "Product_ID": "PRD-120",
+    "Product_Name": "Ruby Center Solitaire Accent Ring",
+    "Product_Category": "Rings",
+    "Product_Price": 2199,
+    "Product_Cost": 860,
+    "Brand": "Vedic Spark",
+    "Supplier_Name": "Surat Diamond Arts"
+  },
+  {
+    "Product_ID": "PRD-121",
+    "Product_Name": "Evil Eye Rose Gold Charm Bracelet",
+    "Product_Category": "Bracelets",
+    "Product_Price": 1399,
+    "Product_Cost": 510,
+    "Brand": "Nirvana Gems",
+    "Supplier_Name": "Surat Diamond Arts"
+  },
+  {
+    "Product_ID": "PRD-122",
+    "Product_Name": "Classic CZ Tennis Link Bracelet",
+    "Product_Category": "Bracelets",
+    "Product_Price": 2299,
+    "Product_Cost": 920,
+    "Brand": "Vedic Spark",
+    "Supplier_Name": "Surat Diamond Arts"
+  },
+  {
+    "Product_ID": "PRD-123",
+    "Product_Name": "Emerald Velvet Stone Cuff Bracelet",
+    "Product_Category": "Bracelets",
+    "Product_Price": 1899,
+    "Product_Cost": 740,
+    "Brand": "Aura Jewels",
+    "Supplier_Name": "Jaipur Gem Crafts"
+  },
+  {
+    "Product_ID": "PRD-124",
+    "Product_Name": "Gold Plated Filigree Chain Bracelet",
+    "Product_Category": "Bracelets",
+    "Product_Price": 1599,
+    "Product_Cost": 600,
+    "Brand": "Royal Heritage",
+    "Supplier_Name": "Mumbai Goldsmiths Ltd"
+  },
+  {
+    "Product_ID": "PRD-125",
+    "Product_Name": "Silver Charm Dual Strand Bracelet",
+    "Product_Category": "Bracelets",
+    "Product_Price": 1199,
+    "Product_Cost": 440,
+    "Brand": "Tarinika Craft",
+    "Supplier_Name": "Rajkot Jewellery Hub"
+  },
+  {
+    "Product_ID": "PRD-126",
+    "Product_Name": "Kundan Embedded Open Cuff",
+    "Product_Category": "Bracelets",
+    "Product_Price": 2499,
+    "Product_Cost": 990,
+    "Brand": "Zariyah Luxe",
+    "Supplier_Name": "Jaipur Gem Crafts"
+  },
+  {
+    "Product_ID": "PRD-127",
+    "Product_Name": "Bridal Chooda Red & White Set (Pack of 4)",
+    "Product_Category": "Bangles",
+    "Product_Price": 2999,
+    "Product_Cost": 1180,
+    "Brand": "Royal Heritage",
+    "Supplier_Name": "Mumbai Goldsmiths Ltd"
+  },
+  {
+    "Product_ID": "PRD-128",
+    "Product_Name": "Jaipuri Handmade Lac Bangle Set",
+    "Product_Category": "Bangles",
+    "Product_Price": 1199,
+    "Product_Cost": 420,
+    "Brand": "Tarinika Craft",
+    "Supplier_Name": "Jaipur Gem Crafts"
+  },
+  {
+    "Product_ID": "PRD-129",
+    "Product_Name": "Temple Gold Plated Carved Kada Pair",
+    "Product_Category": "Bangles",
+    "Product_Price": 3499,
+    "Product_Cost": 1380,
+    "Brand": "Royal Heritage",
+    "Supplier_Name": "Mumbai Goldsmiths Ltd"
+  },
+  {
+    "Product_ID": "PRD-130",
+    "Product_Name": "Zircon Crystal Partywear Bangles (6 pcs)",
+    "Product_Category": "Bangles",
+    "Product_Price": 2199,
+    "Product_Cost": 840,
+    "Brand": "Vedic Spark",
+    "Supplier_Name": "Surat Diamond Arts"
+  },
+  {
+    "Product_ID": "PRD-131",
+    "Product_Name": "Matte Finish Peacock Kada Pair",
+    "Product_Category": "Bangles",
+    "Product_Price": 2799,
+    "Product_Cost": 1090,
+    "Brand": "Aura Jewels",
+    "Supplier_Name": "Rajkot Jewellery Hub"
+  },
+  {
+    "Product_ID": "PRD-132",
+    "Product_Name": "Antique Brass Floral Embossed Bangles",
+    "Product_Category": "Bangles",
+    "Product_Price": 1499,
+    "Product_Cost": 550,
+    "Brand": "Tarinika Craft",
+    "Supplier_Name": "Rajkot Jewellery Hub"
+  },
+  {
+    "Product_ID": "PRD-133",
+    "Product_Name": "Lord Ganesha Solitaire Diamond Pendant",
+    "Product_Category": "Pendants",
+    "Product_Price": 3199,
+    "Product_Cost": 1250,
+    "Brand": "Royal Heritage",
+    "Supplier_Name": "Mumbai Goldsmiths Ltd"
+  },
+  {
+    "Product_ID": "PRD-134",
+    "Product_Name": "Evil Eye Mother of Pearl Amulet Pendant",
+    "Product_Category": "Pendants",
+    "Product_Price": 1499,
+    "Product_Cost": 540,
+    "Brand": "Nirvana Gems",
+    "Supplier_Name": "Surat Diamond Arts"
+  },
+  {
+    "Product_ID": "PRD-135",
+    "Product_Name": "Peacock Meenakari Enamel Pendant Chain",
+    "Product_Category": "Pendants",
+    "Product_Price": 1899,
+    "Product_Cost": 710,
+    "Brand": "Aura Jewels",
+    "Supplier_Name": "Jaipur Gem Crafts"
+  },
+  {
+    "Product_ID": "PRD-136",
+    "Product_Name": "Minimalist Freshwater Pearl Drop Pendant",
+    "Product_Category": "Pendants",
+    "Product_Price": 1299,
+    "Product_Cost": 460,
+    "Brand": "Vedic Spark",
+    "Supplier_Name": "Hyderabad Pearl House"
+  },
+  {
+    "Product_ID": "PRD-137",
+    "Product_Name": "Zodiac Star Sign Constellation Pendant",
+    "Product_Category": "Pendants",
+    "Product_Price": 1099,
+    "Product_Cost": 380,
+    "Brand": "Nirvana Gems",
+    "Supplier_Name": "Surat Diamond Arts"
+  },
+  {
+    "Product_ID": "PRD-138",
+    "Product_Name": "Ruby Solitaire Floral Halo Pendant",
+    "Product_Category": "Pendants",
+    "Product_Price": 2399,
+    "Product_Cost": 920,
+    "Brand": "Zariyah Luxe",
+    "Supplier_Name": "Surat Diamond Arts"
+  },
+  {
+    "Product_ID": "PRD-139",
+    "Product_Name": "Rose Gold Ceramic Mesh Dial Watch",
+    "Product_Category": "Watches",
+    "Product_Price": 4499,
+    "Product_Cost": 1800,
+    "Brand": "Nirvana Gems",
+    "Supplier_Name": "Mumbai Goldsmiths Ltd"
+  },
+  {
+    "Product_ID": "PRD-140",
+    "Product_Name": "Diamond Bezel Dress Analogue Watch",
+    "Product_Category": "Watches",
+    "Product_Price": 5499,
+    "Product_Cost": 2200,
+    "Brand": "Zariyah Luxe",
+    "Supplier_Name": "Mumbai Goldsmiths Ltd"
+  },
+  {
+    "Product_ID": "PRD-141",
+    "Product_Name": "Royal Classic Midnight Leather Watch",
+    "Product_Category": "Watches",
+    "Product_Price": 3299,
+    "Product_Cost": 1280,
+    "Brand": "Royal Heritage",
+    "Supplier_Name": "Mumbai Goldsmiths Ltd"
+  },
+  {
+    "Product_ID": "PRD-142",
+    "Product_Name": "Chronograph Minimalist Silver Watch",
+    "Product_Category": "Watches",
+    "Product_Price": 3999,
+    "Product_Cost": 1580,
+    "Brand": "Vedic Spark",
+    "Supplier_Name": "Surat Diamond Arts"
+  },
+  {
+    "Product_ID": "PRD-143",
+    "Product_Name": "Vintage Emerald Dial Bracelet Watch",
+    "Product_Category": "Watches",
+    "Product_Price": 4899,
+    "Product_Cost": 1950,
+    "Brand": "Aura Jewels",
+    "Supplier_Name": "Jaipur Gem Crafts"
+  },
+  {
+    "Product_ID": "PRD-144",
+    "Product_Name": "Champagne Gold Slimline Luxury Watch",
+    "Product_Category": "Watches",
+    "Product_Price": 3799,
+    "Product_Cost": 1480,
+    "Brand": "Nirvana Gems",
+    "Supplier_Name": "Surat Diamond Arts"
+  },
+  {
+    "Product_ID": "PRD-145",
+    "Product_Name": "Zardozi Hand Embroidered Bridal Potli",
+    "Product_Category": "Fashion Accessories",
+    "Product_Price": 1999,
+    "Product_Cost": 750,
+    "Brand": "Royal Heritage",
+    "Supplier_Name": "Jaipur Gem Crafts"
+  },
+  {
+    "Product_ID": "PRD-146",
+    "Product_Name": "Kundan Pearl Sheeshpatti Maang Tikka",
+    "Product_Category": "Fashion Accessories",
+    "Product_Price": 1799,
+    "Product_Cost": 680,
+    "Brand": "Zariyah Luxe",
+    "Supplier_Name": "Jaipur Gem Crafts"
+  },
+  {
+    "Product_ID": "PRD-147",
+    "Product_Name": "Antique Gold Plated Kamarbandh Waist Belt",
+    "Product_Category": "Fashion Accessories",
+    "Product_Price": 2899,
+    "Product_Cost": 1120,
+    "Brand": "Royal Heritage",
+    "Supplier_Name": "Mumbai Goldsmiths Ltd"
+  },
+  {
+    "Product_ID": "PRD-148",
+    "Product_Name": "Jadau Hair Pin Brooch (Set of 2)",
+    "Product_Category": "Fashion Accessories",
+    "Product_Price": 1199,
+    "Product_Cost": 430,
+    "Brand": "Aura Jewels",
+    "Supplier_Name": "Jaipur Gem Crafts"
+  },
+  {
+    "Product_ID": "PRD-149",
+    "Product_Name": "Velvet Embellished Clutches with Chain",
+    "Product_Category": "Fashion Accessories",
+    "Product_Price": 2299,
+    "Product_Cost": 890,
+    "Brand": "Tarinika Craft",
+    "Supplier_Name": "Rajkot Jewellery Hub"
+  },
+  {
+    "Product_ID": "PRD-150",
+    "Product_Name": "Traditional Floral Gota Patti Hathphool",
+    "Product_Category": "Fashion Accessories",
+    "Product_Price": 1399,
+    "Product_Cost": 510,
+    "Brand": "Vedic Spark",
+    "Supplier_Name": "Jaipur Gem Crafts"
+  }
+]

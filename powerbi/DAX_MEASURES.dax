@@ -1,0 +1,105 @@
+// ==========================================================================
+// POWER BI DAX MEASURES LIBRARY
+// Project: E-commerce Returns & Refunds Analytics
+// ==========================================================================
+
+// --------------------------------------------------------------------------
+// 1. Core Volume & Order Metrics
+// --------------------------------------------------------------------------
+
+Total Orders = 
+DISTINCTCOUNT(Orders[Order_ID])
+
+Returned Orders = 
+CALCULATE(
+    DISTINCTCOUNT(Orders[Order_ID]),
+    USERELATIONSHIP(Orders[Order_ID], Returns[Order_ID]),
+    NOT(ISBLANK(Returns[Return_ID]))
+)
+
+Return Rate = 
+DIVIDE([Returned Orders], [Total Orders], 0)
+
+Total Ordered Quantity = 
+SUM(Orders[Quantity])
+
+Total Returned Quantity = 
+SUM(Returns[Returned_Quantity])
+
+Product Return Rate = 
+DIVIDE([Total Returned Quantity], [Total Ordered Quantity], 0)
+
+// --------------------------------------------------------------------------
+// 2. Financial & Revenue Metrics
+// --------------------------------------------------------------------------
+
+Gross Revenue = 
+SUM(Orders[Order_Amount])
+
+Total Refund Amount = 
+CALCULATE(
+    SUM(Refunds[Refund_Amount]),
+    Refunds[Refund_Status] = "Completed"
+)
+
+Average Refund Amount = 
+CALCULATE(
+    AVERAGE(Refunds[Refund_Amount]),
+    Refunds[Refund_Status] = "Completed"
+)
+
+Net Revenue = 
+[Gross Revenue] - [Total Refund Amount]
+
+Refund to Revenue Ratio = 
+DIVIDE([Total Refund Amount], [Gross Revenue], 0)
+
+// --------------------------------------------------------------------------
+// 3. Operational & Service Quality Metrics
+// --------------------------------------------------------------------------
+
+Refund Completion Rate = 
+DIVIDE(
+    CALCULATE(COUNTROWS(Refunds), Refunds[Refund_Status] = "Completed"),
+    COUNTROWS(Refunds),
+    0
+)
+
+Average Processing Days = 
+CALCULATE(
+    AVERAGE(Refunds[Processing_Days]),
+    Refunds[Refund_Status] = "Completed"
+)
+
+Approved Returns = 
+CALCULATE(COUNTROWS(Returns), Returns[Return_Status] = "Approved")
+
+Rejected Returns = 
+CALCULATE(COUNTROWS(Returns), Returns[Return_Status] = "Rejected")
+
+Pending Returns = 
+CALCULATE(COUNTROWS(Returns), Returns[Return_Status] = "Pending")
+
+// --------------------------------------------------------------------------
+// 4. Customer Behavioral Metrics
+// --------------------------------------------------------------------------
+
+Total Customers = 
+DISTINCTCOUNT(Orders[Customer_ID])
+
+Customers With Returns = 
+CALCULATE(
+    DISTINCTCOUNT(Orders[Customer_ID]),
+    NOT(ISBLANK(Returns[Return_ID]))
+)
+
+Customer Return Rate = 
+DIVIDE([Customers With Returns], [Total Customers], 0)
+
+Repeat Return Customers = 
+COUNTROWS(
+    FILTER(
+        VALUES(Orders[Customer_ID]),
+        CALCULATE(DISTINCTCOUNT(Returns[Return_ID])) > 1
+    )
+)
